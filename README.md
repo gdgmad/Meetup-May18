@@ -28,7 +28,7 @@ Manjula condensed 800 hours of web information from the I/O into 45 mins
 
 Deesha spoke about Android Jetpack, Support library updates with in-deptch analysis of Navigation and WorkManager.
 
-### Slides - Coming soon
+### [Slides](https://speakerdeck.com/deesharv/new-in-android-at-google-io-18)
 
 ---
 
